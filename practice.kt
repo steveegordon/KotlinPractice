@@ -45,3 +45,5 @@ fun copyAddress(address: Address): Address {
     // ...
     return result
 }
+
+// extension functions
